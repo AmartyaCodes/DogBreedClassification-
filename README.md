@@ -4,4 +4,5 @@ For the classification task among the various classes of the dogs, ResNet50V2 mo
 # DATASET
 https://www.kaggle.com/c/dog-breed-identification
 # Model Info 
+The "h5" file has been provided below
 https://drive.google.com/file/d/1DnKuhk_-D4SVeT9qIrgyKeZyWmgM0qwP/view?usp=sharing
